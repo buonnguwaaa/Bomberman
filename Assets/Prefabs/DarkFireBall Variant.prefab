@@ -1,0 +1,79 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &7640252642888491064
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 867118121681500615, guid: 1d75bc27b4586794ab3da4680bc6f1ba, type: 3}
+      propertyPath: m_Color.b
+      value: 0.46226418
+      objectReference: {fileID: 0}
+    - target: {fileID: 867118121681500615, guid: 1d75bc27b4586794ab3da4680bc6f1ba, type: 3}
+      propertyPath: m_Color.g
+      value: 0.3159697
+      objectReference: {fileID: 0}
+    - target: {fileID: 867118121681500615, guid: 1d75bc27b4586794ab3da4680bc6f1ba, type: 3}
+      propertyPath: m_Color.r
+      value: 0.17182271
+      objectReference: {fileID: 0}
+    - target: {fileID: 867118121681500615, guid: 1d75bc27b4586794ab3da4680bc6f1ba, type: 3}
+      propertyPath: m_SortingOrder
+      value: -1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1418252100071018001, guid: 1d75bc27b4586794ab3da4680bc6f1ba, type: 3}
+      propertyPath: m_Name
+      value: DarkFireBall Variant
+      objectReference: {fileID: 0}
+    - target: {fileID: 3264885631697745721, guid: 1d75bc27b4586794ab3da4680bc6f1ba, type: 3}
+      propertyPath: speed
+      value: 450
+      objectReference: {fileID: 0}
+    - target: {fileID: 5860568678463287184, guid: 1d75bc27b4586794ab3da4680bc6f1ba, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -4.11
+      objectReference: {fileID: 0}
+    - target: {fileID: 5860568678463287184, guid: 1d75bc27b4586794ab3da4680bc6f1ba, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -6.12
+      objectReference: {fileID: 0}
+    - target: {fileID: 5860568678463287184, guid: 1d75bc27b4586794ab3da4680bc6f1ba, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5860568678463287184, guid: 1d75bc27b4586794ab3da4680bc6f1ba, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5860568678463287184, guid: 1d75bc27b4586794ab3da4680bc6f1ba, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5860568678463287184, guid: 1d75bc27b4586794ab3da4680bc6f1ba, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5860568678463287184, guid: 1d75bc27b4586794ab3da4680bc6f1ba, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5860568678463287184, guid: 1d75bc27b4586794ab3da4680bc6f1ba, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5860568678463287184, guid: 1d75bc27b4586794ab3da4680bc6f1ba, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5860568678463287184, guid: 1d75bc27b4586794ab3da4680bc6f1ba, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 1d75bc27b4586794ab3da4680bc6f1ba, type: 3}
